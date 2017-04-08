@@ -1,4 +1,6 @@
-# vuex_vuerouter_sync_state
+#Purpose
+
+I was confused about when changing the routes, the vuex state got reset. So here is a demo to keep the vuex state when switching routes. Enjoy!
 
 > A Vue.js project
 
@@ -19,3 +21,4 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
