@@ -1,8 +1,6 @@
-#Purpose
+## Purpose
 
 I was confused about when changing the routes, the vuex state got reset. So here is a demo to keep the vuex state when switching routes. Enjoy!
-
-> A Vue.js project
 
 ## Build Setup
 
